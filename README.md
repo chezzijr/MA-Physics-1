@@ -8,7 +8,7 @@ Faculty of Computer Science and Engineering, Ho Chi Minh University of Technolog
 Spacecraft ejects its burned fuel, which causes itself to move upward as well as losing its weight. <br />
 Given the `v'` as speed of fuel ejection, `dm/dt` as burning rate, `m0` as inital mass and `y0` as inital coordinate. <br />
 Solve the equation `mdv/dt = - v'dm/dt - mg`, we will have acceleration, velocity and coordinate. <br />
-Plot the function y(t) on matlab using symbolic package.
+Plot the function `y(t)` on matlab using symbolic package.
 
 # Solving
 
