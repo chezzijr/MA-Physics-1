@@ -1,10 +1,10 @@
 # Thông tin
 
-Đại học Bách Khoa TPHCM, khoa Khoa học và Kĩ thuật máy tính
-Bài tập lớn Vật lý I
-Nhóm 11
-Lớp L05
-Ngày 05-12-2022
+Đại học Bách Khoa TPHCM, khoa Khoa học và Kĩ thuật máy tính <br />
+Bài tập lớn Vật lý I <br />
+Nhóm 11 <br />
+Lớp L05 <br />
+Ngày 05-12-2022 <br />
 Đề tài: Xác định phương trình chuyển động của tên lửa
 
 # Kiến thức cần thiết
